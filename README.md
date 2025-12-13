@@ -4,7 +4,7 @@
 
 ### Data Scientist • Machine Learning • Generative AI • RAG Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Associate+Data+Scientist;LLM+%26+RAG+Systems+Builder;Applied+Machine+Learning+Engineer;Cloud-Native+AI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Associate+Data+Scientist" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zalak-karnik/">LinkedIn</a> •
