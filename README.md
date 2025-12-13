@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zalak-karnik/">LinkedIn</a> •
-  <a href="https://github.com/ZalakKarnik">GitHub</a> •
-  <a href="mailto:karnikzh@gmail.com">Email</a>
+  <a href="https://github.com/ZalakKarnik">GitHub</a>
 </p>
 
 </div>
@@ -133,13 +132,6 @@ NLP & Search
 * Bridging the gap between research and production
 
 </details>
-
----
-
-## 🧘 Minimal Version (Recruiter-Friendly)
-
-> **Zalak Karnik** — Data Scientist / ML Engineer
-> Associate Data Scientist with experience in **Machine Learning, NLP, and Generative AI**. Worked on **RAG pipelines, forecasting models, fraud detection, and scalable FastAPI-based ML services** across FinTech and LegalTech domains. Strong foundation in statistics, cloud ML platforms (AWS, GCP), and production AI systems.
 
 ---
 
