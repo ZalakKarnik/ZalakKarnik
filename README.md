@@ -65,7 +65,7 @@ NLP & Search
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,fastapi,elasticsearch,git,gcp" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,elasticsearch,git,gcp,redis,postman,postgres&perline=3" />
 
 </p>
 
